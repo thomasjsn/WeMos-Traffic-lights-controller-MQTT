@@ -1,8 +1,6 @@
-## Source code for project: [WeMos traffic lights controller](https://link.stdout.no/w)
+## Source code for project: [LEGO traffic lights (WeMos, Wi-Fi and MQTT)](https://www.stdout.no/wiki/LEGO_traffic_lights_(WeMos,_Wi-Fi_and_MQTT))
 
-Traffic lights controller with two channels, Wi-Fi and MQTT. WeMos D1 mini board.
-
-![WeMos traffic lights controller](image.jpg)
+![LEGO traffic lights (WeMos, Wi-Fi and MQTT)](https://static.stdout.no/images/thumb/b/bb/LEGO_traffic_lights-20200131_000742.JPG/800px-LEGO_traffic_lights-20200131_000742.JPG)
 
 ### Author
 [Thomas Jensen](https://thomas.stdout.no)
